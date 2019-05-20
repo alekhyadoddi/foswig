@@ -45,7 +45,8 @@ Ex. -
 The functional aspect,handling defaults
 
 ## Screenshots
-Include logo/demo screenshot etc.
+Please find the demo in the below link:
+https://drive.google.com/file/d/1Ds4jOuRnSzkMM5sP9uesHF36DjJdCneW/view
 
 ## Code Example
 when the user types in command thgen it will output result based on the command entered.It is also built to handle defaults .It also logs output to log.txt

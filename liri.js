@@ -61,7 +61,7 @@ dowhatitsays();
 
 else {
 
-  console.log("Sorry I dont understand !\n please enter any of the commands below:\n concert-this [artist or band name]\nspotify-this-song [song]\nmovie-this [movie name]\n\n ");
+  console.log("Sorry I dont understand !\n please enter any of the commands below:\n concert-this [artist or band name]\nspotify-this-song [song]\nmovie-this [movie name]\ndo-what-it-says\n\n ");
 }
 }
 

@@ -324,3 +324,602 @@ Track      : https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
 Album Name : I Want It That Way
 ===============================================================================================
 *********End of results****************
+
+The following are the concert details for the Jonas Brothers Band
+===============================================================================================
+Event 1 Details
+===============================================================================================
+Name of the venue : Dignity Health Sports Park
+
+Venue location : Carson,CA,United States
+
+Date of the Event : 01-06-2019 00:06HRS
+===============================================================================================
+Event 2 Details
+===============================================================================================
+Name of the venue : Wembley Stadium
+
+Venue location : London,,United Kingdom
+
+Date of the Event : 08-06-2019 14:06HRS
+===============================================================================================
+Event 3 Details
+===============================================================================================
+Name of the venue : Northwell Health at Jones Beach Theater
+
+Venue location : Wantagh,NY,United States
+
+Date of the Event : 14-06-2019 18:06HRS
+===============================================================================================
+Event 4 Details
+===============================================================================================
+Name of the venue : Xfinity Center
+
+Venue location : Mansfield,MA,United States
+
+Date of the Event : 16-06-2019 16:06HRS
+===============================================================================================
+Event 5 Details
+===============================================================================================
+Name of the venue : American Airlines Arena
+
+Venue location : Miami,FL,United States
+
+Date of the Event : 07-08-2019 00:08HRS
+===============================================================================================
+*********End of results****************
+**********Sorry I dont recognize the artist .Please enter a valid artist**************
+*********End of results****************
+
+The following are the details for the requested ME song
+
+===============================================================================================
+1 :  Song Details
+===============================================================================================
+Artists   : Taylor Swift, Brendon Urie, Panic! At The Disco, 
+
+Name       : ME!
+
+Track      : https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy
+
+Album Name : ME!
+===============================================================================================
+2 :  Song Details
+===============================================================================================
+Artists   : Calboy, 
+
+Name       : Envy Me
+
+Track      : https://open.spotify.com/album/6kouOn7KSqTklk5Mh1vEH2
+
+Album Name : Envy Me
+===============================================================================================
+3 :  Song Details
+===============================================================================================
+Artists   : Halsey, 
+
+Name       : Without Me
+
+Track      : https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm
+
+Album Name : Without Me
+===============================================================================================
+4 :  Song Details
+===============================================================================================
+Artists   : Marshmello, CHVRCHES, 
+
+Name       : Here With Me
+
+Track      : https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd
+
+Album Name : Here With Me
+===============================================================================================
+5 :  Song Details
+===============================================================================================
+Artists   : Cardi B, Bruno Mars, 
+
+Name       : Please Me
+
+Track      : https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso
+
+Album Name : Please Me
+===============================================================================================
+*********End of results****************
+
+ No song has been provided,hence displaying the results for The Sign by Ace of Base  song
+
+===============================================================================================
+1 :  Song Details
+===============================================================================================
+Artists   : Karaoke Box, 
+
+Name       : Karaoke Box: Reggae Greatest Hits
+
+Track      : https://open.spotify.com/album/07NOGVIO8pAmYlf5g9uUhA
+
+Album Name : Karaoke Box: Reggae Greatest Hits
+===============================================================================================
+2 :  Song Details
+===============================================================================================
+Artists   : The Karaoke Channel, 
+
+Name       : The Karaoke Channel - Sing the Sign Like Ace of Base
+
+Track      : https://open.spotify.com/album/76eMKflGHdU48ouk99v3kp
+
+Album Name : The Karaoke Channel - Sing the Sign Like Ace of Base
+===============================================================================================
+3 :  Song Details
+===============================================================================================
+Artists   : Clara Oaks, 
+
+Name       : The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+
+Track      : https://open.spotify.com/album/3AkdHnSTgdBY8FeRCzjfHN
+
+Album Name : The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+===============================================================================================
+4 :  Song Details
+===============================================================================================
+Artists   : The Karaoke Crew, 
+
+Name       : Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+
+Track      : https://open.spotify.com/album/7lDG3CPCRQv0vEhMb8NoX9
+
+Album Name : Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+===============================================================================================
+5 :  Song Details
+===============================================================================================
+Artists   : Anna Gramm, 
+
+Name       : The Best Of Ace Of Base (Karaoke Version)
+
+Track      : https://open.spotify.com/album/4K1FWX1ohqQ94LUifum0Gu
+
+Album Name : The Best Of Ace Of Base (Karaoke Version)
+===============================================================================================
+*********End of results****************
+
+The following are the details for the requested Avengers movie
+===============================================================================================
+Movie Title     : The Avengers
+
+Year            : 2012
+
+IMDB Rating     : 8.1/10
+
+Rotten Tomatoes : 92%
+
+Country         : USA
+
+Language        : English, Russian, Hindi
+
+Plot            : Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+
+Actors          : Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+===============================================================================================
+*********End of results****************
+
+The following are the details for the requested THe fault in our stars movie
+===============================================================================================
+Movie Title     : The Fault in Our Stars
+
+Year            : 2014
+
+IMDB Rating     : 7.7/10
+
+Rotten Tomatoes : 80%
+
+Country         : USA
+
+Language        : English
+
+Plot            : Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.
+
+Actors          : Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern
+===============================================================================================
+*********End of results****************
+The following are the details for the Mr.Nobody movie.
+If you haven't watched Mr. Nobody, then you should: http://www.imdb.com/title/tt0485947.
+It's on Netflix!
+===============================================================================================
+Movie Title     : Mr. Nobody
+
+Year            : 2009
+
+IMDB Rating     : 7.8/10
+
+Rotten Tomatoes : 67%
+
+Country         : Belgium, Germany, Canada, France, USA, UK
+
+Language        : English, Mohawk
+
+Plot            : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors          : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+===============================================================================================
+*********End of results****************
+
+ No song has been provided,hence displaying the results for The Sign by Ace of Base  song
+
+===============================================================================================
+1 :  Song Details
+===============================================================================================
+Artists   : Karaoke Box, 
+
+Name       : Karaoke Box: Reggae Greatest Hits
+
+Track      : https://open.spotify.com/album/07NOGVIO8pAmYlf5g9uUhA
+
+Album Name : Karaoke Box: Reggae Greatest Hits
+===============================================================================================
+2 :  Song Details
+===============================================================================================
+Artists   : The Karaoke Channel, 
+
+Name       : The Karaoke Channel - Sing the Sign Like Ace of Base
+
+Track      : https://open.spotify.com/album/76eMKflGHdU48ouk99v3kp
+
+Album Name : The Karaoke Channel - Sing the Sign Like Ace of Base
+===============================================================================================
+3 :  Song Details
+===============================================================================================
+Artists   : Clara Oaks, 
+
+Name       : The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+
+Track      : https://open.spotify.com/album/3AkdHnSTgdBY8FeRCzjfHN
+
+Album Name : The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+===============================================================================================
+4 :  Song Details
+===============================================================================================
+Artists   : The Karaoke Crew, 
+
+Name       : Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+
+Track      : https://open.spotify.com/album/7lDG3CPCRQv0vEhMb8NoX9
+
+Album Name : Drew's Famous # 1 Karaoke Hits: 90's Party Hits Vol. 2
+===============================================================================================
+5 :  Song Details
+===============================================================================================
+Artists   : Anna Gramm, 
+
+Name       : The Best Of Ace Of Base (Karaoke Version)
+
+Track      : https://open.spotify.com/album/4K1FWX1ohqQ94LUifum0Gu
+
+Album Name : The Best Of Ace Of Base (Karaoke Version)
+===============================================================================================
+*********End of results****************
+
+The following are the details for the requested Blank Space song
+
+===============================================================================================
+1 :  Song Details
+===============================================================================================
+Artists   : Taylor Swift, 
+
+Name       : 1989
+
+Track      : https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j
+
+Album Name : 1989
+===============================================================================================
+2 :  Song Details
+===============================================================================================
+Artists   : Taylor Swift, 
+
+Name       : 1989 (Big Machine Radio Release Special)
+
+Track      : https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ
+
+Album Name : 1989 (Big Machine Radio Release Special)
+===============================================================================================
+3 :  Song Details
+===============================================================================================
+Artists   : I Prevail, 
+
+Name       : Heart Vs. Mind
+
+Track      : https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az
+
+Album Name : Heart Vs. Mind
+===============================================================================================
+4 :  Song Details
+===============================================================================================
+Artists   : Taylor Swift, 
+
+Name       : 1989 (Deluxe Edition)
+
+Track      : https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR
+
+Album Name : 1989 (Deluxe Edition)
+===============================================================================================
+5 :  Song Details
+===============================================================================================
+Artists   : Imagine Dragons, 
+
+Name       : Imagine Dragons (Spotify Sessions)
+
+Track      : https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA
+
+Album Name : Imagine Dragons (Spotify Sessions)
+===============================================================================================
+*********End of results****************
+
+The following are the details for the requested "I Want it That Way" song
+
+===============================================================================================
+1 :  Song Details
+===============================================================================================
+Artists   : Backstreet Boys, 
+
+Name       : The Hits--Chapter One
+
+Track      : https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+Album Name : The Hits--Chapter One
+===============================================================================================
+2 :  Song Details
+===============================================================================================
+Artists   : Backstreet Boys, 
+
+Name       : Millennium
+
+Track      : https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+
+Album Name : Millennium
+===============================================================================================
+3 :  Song Details
+===============================================================================================
+Artists   : Backstreet Boys, 
+
+Name       : I Want It That Way (Reimagined)
+
+Track      : https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+
+Album Name : I Want It That Way (Reimagined)
+===============================================================================================
+4 :  Song Details
+===============================================================================================
+Artists   : Anthem Lights, 
+
+Name       : Covers Part IV
+
+Track      : https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+
+Album Name : Covers Part IV
+===============================================================================================
+5 :  Song Details
+===============================================================================================
+Artists   : Mick Jensen, 
+
+Name       : I Want It That Way
+
+Track      : https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+
+Album Name : I Want It That Way
+===============================================================================================
+*********End of results****************
+
+The following are the concert details for the Jonas Brothers Band
+===============================================================================================
+Event 1 Details
+===============================================================================================
+Name of the venue : Dignity Health Sports Park
+
+Venue location : Carson,CA,United States
+
+Date of the Event : 01-06-2019 00:06HRS
+===============================================================================================
+Event 2 Details
+===============================================================================================
+Name of the venue : Wembley Stadium
+
+Venue location : London,,United Kingdom
+
+Date of the Event : 08-06-2019 14:06HRS
+===============================================================================================
+Event 3 Details
+===============================================================================================
+Name of the venue : Northwell Health at Jones Beach Theater
+
+Venue location : Wantagh,NY,United States
+
+Date of the Event : 14-06-2019 18:06HRS
+===============================================================================================
+Event 4 Details
+===============================================================================================
+Name of the venue : Xfinity Center
+
+Venue location : Mansfield,MA,United States
+
+Date of the Event : 16-06-2019 16:06HRS
+===============================================================================================
+Event 5 Details
+===============================================================================================
+Name of the venue : American Airlines Arena
+
+Venue location : Miami,FL,United States
+
+Date of the Event : 07-08-2019 00:08HRS
+===============================================================================================
+*********End of results****************
+**********Sorry I dont recognize the artist .Please enter a valid artist**************
+*********End of results****************
+
+The following are the details for the requested ME song
+
+===============================================================================================
+1 :  Song Details
+===============================================================================================
+Artists   : Taylor Swift, Brendon Urie, Panic! At The Disco, 
+
+Name       : ME!
+
+Track      : https://open.spotify.com/album/0WGakTFs8cnggcYsHjIhgy
+
+Album Name : ME!
+===============================================================================================
+2 :  Song Details
+===============================================================================================
+Artists   : Calboy, 
+
+Name       : Envy Me
+
+Track      : https://open.spotify.com/album/6kouOn7KSqTklk5Mh1vEH2
+
+Album Name : Envy Me
+===============================================================================================
+3 :  Song Details
+===============================================================================================
+Artists   : Halsey, 
+
+Name       : Without Me
+
+Track      : https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm
+
+Album Name : Without Me
+===============================================================================================
+4 :  Song Details
+===============================================================================================
+Artists   : Marshmello, CHVRCHES, 
+
+Name       : Here With Me
+
+Track      : https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd
+
+Album Name : Here With Me
+===============================================================================================
+5 :  Song Details
+===============================================================================================
+Artists   : Cardi B, Bruno Mars, 
+
+Name       : Please Me
+
+Track      : https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso
+
+Album Name : Please Me
+===============================================================================================
+*********End of results****************
+
+The following are the details for the requested THe fault in our stars movie
+===============================================================================================
+Movie Title     : The Fault in Our Stars
+
+Year            : 2014
+
+IMDB Rating     : 7.7/10
+
+Rotten Tomatoes : 80%
+
+Country         : USA
+
+Language        : English
+
+Plot            : Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.
+
+Actors          : Shailene Woodley, Ansel Elgort, Nat Wolff, Laura Dern
+===============================================================================================
+*********End of results****************
+The following are the details for the Mr.Nobody movie.
+If you haven't watched Mr. Nobody, then you should: http://www.imdb.com/title/tt0485947.
+It's on Netflix!
+===============================================================================================
+Movie Title     : Mr. Nobody
+
+Year            : 2009
+
+IMDB Rating     : 7.8/10
+
+Rotten Tomatoes : 67%
+
+Country         : Belgium, Germany, Canada, France, USA, UK
+
+Language        : English, Mohawk
+
+Plot            : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Actors          : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+===============================================================================================
+*********End of results****************
+
+The following are the details for the requested "I Want it That Way" song
+
+===============================================================================================
+1 :  Song Details
+===============================================================================================
+Artists   : Backstreet Boys, 
+
+Name       : The Hits--Chapter One
+
+Track      : https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+Album Name : The Hits--Chapter One
+===============================================================================================
+2 :  Song Details
+===============================================================================================
+Artists   : Backstreet Boys, 
+
+Name       : Millennium
+
+Track      : https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+
+Album Name : Millennium
+===============================================================================================
+3 :  Song Details
+===============================================================================================
+Artists   : Backstreet Boys, 
+
+Name       : I Want It That Way (Reimagined)
+
+Track      : https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+
+Album Name : I Want It That Way (Reimagined)
+===============================================================================================
+4 :  Song Details
+===============================================================================================
+Artists   : Anthem Lights, 
+
+Name       : Covers Part IV
+
+Track      : https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+
+Album Name : Covers Part IV
+===============================================================================================
+5 :  Song Details
+===============================================================================================
+Artists   : Mick Jensen, 
+
+Name       : I Want It That Way
+
+Track      : https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+
+Album Name : I Want It That Way
+===============================================================================================
+*********End of results****************
+
+The following are the details for the requested "Avengers" movie
+===============================================================================================
+Movie Title     : The Avengers
+
+Year            : 2012
+
+IMDB Rating     : 8.1/10
+
+Rotten Tomatoes : 92%
+
+Country         : USA
+
+Language        : English, Russian, Hindi
+
+Plot            : Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+
+Actors          : Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+===============================================================================================
+*********End of results****************
