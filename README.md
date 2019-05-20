@@ -42,26 +42,109 @@ Ex. -
 
 
 ## Features
-What makes your project stand out?
+The functional aspect,handling defaults
 
 ## Screenshots
 Include logo/demo screenshot etc.
 
 ## Code Example
-Show what your project does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+when the user types in command thgen it will output result based on the command entered.It is also built to handle defaults .It also logs output to log.txt
 
 ## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
+git clone the package from the location:
+git pull the code
+ run npm install to install all the required node modules
+ start running the program by typing in one of the below commands:
+ * `concert-this`
+
+   * `spotify-this-song`
+
+   * `movie-this`
+
+   * `do-what-it-says`
+
+you can change the content in random.txt file to  any of the above commands if you want to run the do_what_it_says_command.By defaukt it is configured to run `spotify-this-song` for "I Want it That Way,"
 
 ## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+ liri can take in one of the following commands:
+
+   * `concert-this`
+
+   * `spotify-this-song`
+
+   * `movie-this`
+
+   * `do-what-it-says`
+
+
+
+ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+1. `node liri.js concert-this <artist/band name here>`
+
+   * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
+
+     * Name of the venue
+
+     * Venue location
+
+     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+
+2. `node liri.js spotify-this-song '<song name here>'`
+
+   * This will show the following information about the song in your terminal/bash window
+
+     * Artist(s)
+
+     * The song's name
+
+     * A preview link of the song from Spotify
+
+     * The album that the song is from
+
+   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+
+
+3. `node liri.js movie-this '<movie name here>'`
+
+   * This will output the following information to your terminal/bash window:
+
+     ```
+       * Title of the movie.
+       * Year the movie came out.
+       * IMDB Rating of the movie.
+       * Rotten Tomatoes Rating of the movie.
+       * Country where the movie was produced.
+       * Language of the movie.
+       * Plot of the movie.
+       * Actors in the movie.
+     ```
+
+   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+
+     * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
+
+     * It's on Netflix!
+
+   
+
+4. `node liri.js do-what-it-says`
+
+   *  LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+
+     * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+
+     * Edit the text in random.txt to test out the feature for movie-this and concert-this.
+
+
+
 
 ## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
+My CLI class room task
 
 #### Anything else that seems useful
 
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]()
+MIT © [Alekhya]()
