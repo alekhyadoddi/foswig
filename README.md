@@ -1,4 +1,4 @@
-# foswig test
+# foswig
 ## Project title and Deployed Link
 LIRI is a command line version of Siri. It accepts commands from the command line and outputs the result which fits the command
 
